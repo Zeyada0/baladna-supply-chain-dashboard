@@ -11,7 +11,7 @@ An interactive Power BI report that tracks weekly production against distributio
 | **Data View** | Region-level table: target achievement, distribution last week vs this week, supply coverage, week-over-week change |
 
 ![Home](images/01-home.jpg)
-![Overview](images/02-overview.jpg)
+![Overview](images/02-overview-v2.jpg)
 ![Data View](images/03-data-view.jpg)
 
 ## Key metrics
